@@ -1,5 +1,5 @@
 # 💫 About Me:
-Engineer graduated in telecommunications systems, with a Master in<br>application and management of telecommunications.<br><br>Addicted to continuous learning that this wonderful world of programming entails.
+Engineer graduated in telecommunications systems, with a Master in<br>application and management of telecommunications.<br><br>Addicted to continuous learning that this wonderful world of programming entails.<br><br>Working as a AI Software engineer!¡.
 
 
 ## 🌐 Socials:
