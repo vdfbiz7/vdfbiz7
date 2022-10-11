@@ -3,7 +3,7 @@ Engineer graduated in telecommunications systems, with a Master in<br>applicatio
 
 
 ## 🌐 Socials:
-[![Personal WEB](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://victordf.com) 
+[![Personal WEB](https://img.shields.io/badge/-web-FE7A16?logo=stack-overflow&logoColor=white)](https://victordf.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vdoradof) 
 
 # 💻 Tech Stack:
