@@ -4,7 +4,7 @@ Engineer graduated in telecommunications systems, with a Master in<br>applicatio
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vdoradof)
-<br><br>
+<br>
 [Personal web](https://victordf.com)
 
 # 💻 Tech Stack:
